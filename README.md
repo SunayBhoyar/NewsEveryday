@@ -1,9 +1,10 @@
 # NewsEverday
 
-A new Flutter project.
+![alt text](https://github.com/SunayBhoyar/NewsEveryday/blob/master/!!%20CHECK%20THIS%20FOLDER/mainMock.png?raw=true)
+## introduction - 
+here's newsEveryday , built entirely using Flutter! this app is designed to provide you with the latest news updates and articles from around the world, all in one convenient location.
 
-I am excited to share with you a news application I created using Flutter to study working with APIs. As a [Your Profession], I am always looking for new and exciting ways to develop my skills and keep up with the latest industry trends. That's why I decided to create this app, which allows users to easily browse and read news articles from a variety of sources, all in one place.
+Using Flutter's powerful design capabilities, this app features a sleek and modern user interface that is both easy to navigate and visually appealing. Whether you're looking for breaking news stories, in-depth investigative journalism, this app has got you covered.
 
-Using Flutter made it easy to create a beautiful and intuitive user interface for the app, while also providing powerful tools for working with APIs. I was able to integrate multiple APIs into the app, including ones for retrieving news articles, displaying images, and even providing weather information. I also implemented features like bookmarking articles and sharing them with friends, to make the app even more useful for users.
+In addition to its intuitive design, our news app also features seamless integration with a REST API, allowing us to deliver up-to-the-minute news updates from a variety of sources directly to your device. With our app, you'll never miss an important news story again.
 
-Overall, creating this news application was a great learning experience for me, and I am proud of what I was able to accomplish using Flutter and APIs. I hope that others will find the app useful and enjoy using it as much as I enjoyed creating it. Thank you for taking the time to read about my project!
