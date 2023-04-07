@@ -1,8 +1,8 @@
 # NewsEverday
 
 ![alt text](https://github.com/SunayBhoyar/NewsEveryday/blob/master/!!%20CHECK%20THIS%20FOLDER/mainMock.png?raw=true)
-![alt text](https://github.com/SunayBhoyar/NewsEveryday/blob/master/!!%20CHECK%20THIS%20FOLDER/page2.png/mainMock.png?raw=true)
-![alt text](https://github.com/SunayBhoyar/NewsEveryday/blob/master/!!%20CHECK%20THIS%20FOLDER/page3.png/mainMock.png?raw=true)
+![alt text](https://github.com/SunayBhoyar/NewsEveryday/blob/master/!!%20CHECK%20THIS%20FOLDER/page2.png?raw=true)
+![alt text](https://github.com/SunayBhoyar/NewsEveryday/blob/master/!!%20CHECK%20THIS%20FOLDER/page3.png?raw=true)
 
 ## Introduction - 
 here's newsEveryday , built entirely using Flutter! this app is designed to provide you with the latest news updates and articles from around the world, all in one convenient location.
